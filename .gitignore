@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+1-fetch-db-records
+2-complete-routes
+3-build-client-app
+4-add-authentication
+.DS_Store
